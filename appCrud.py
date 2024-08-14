@@ -34,7 +34,7 @@ class ProductDB:
 class crudAPP:
     def __init__(self, root):
         self.root = root
-        self.root.title("Korsinemi")
+        self.root.title("Gestion de Productos")
 
        # label = ttk.Label(self.root, text="UwU")
         # label.pack(padx=150, pady=20)
